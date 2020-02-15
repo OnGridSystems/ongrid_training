@@ -1,1 +1,1 @@
-# Ongrid foolstack training participants
+# Ongrid fullstack training participants
