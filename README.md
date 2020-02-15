@@ -1,3 +1,3 @@
-# Ongrid FullStack Training Participants
+# Ongrid fullstack training participants
 
 * Kirill Varlamov, Architect
