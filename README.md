@@ -2,3 +2,4 @@
 
 * Kirill Varlamov, Architect
 * Ilya Kuzmenko 2, Student
+* MaxDiGreez, Student
