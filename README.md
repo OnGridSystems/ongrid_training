@@ -5,4 +5,5 @@
 * Max Savinov, Student [learngitbranching] (https://learngitbranching.js.org/)
 * MaxDiGreez, Student
 * Vikentiy67, Student
+* Tanya Kozlova, Student
 * Alexey Gulyaev, Student
