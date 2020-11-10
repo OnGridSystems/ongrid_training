@@ -7,3 +7,4 @@
 * Vikentiy67, Student
 * Tanya Kozlova, Student
 * Alexey Gulyaev, Student
+* Dmitriy Luzin, Student
